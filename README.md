@@ -1,8 +1,8 @@
 # docs
 
-Will be populated will all documentation for GummiArmCE. See old GummiArm repo for now: 
+Will be populated will all documentation for GummiArmCE. See Wiki to start:
 
-https://github.com/mstoelen/GummiArm/wiki
+https://github.com/GummiArmCE/docs/wiki
 
 ##
 
