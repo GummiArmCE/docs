@@ -1,6 +1,6 @@
 # docs
 
-Welcome! Get started with the GummiArmCE in the Wiki:
+Welcome! Get started with the GummiArmCE in the wiki:
 
 https://github.com/GummiArmCE/docs/wiki
 
